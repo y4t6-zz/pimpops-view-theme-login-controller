@@ -2,5 +2,8 @@
 
 return [
     'host' => 'localhost',
-    'username' => 'root'
+    'db_name' => 'pimpops',
+    'username' => 'root',
+    'password' => '',
+    'charset' => 'utf8'
 ];
